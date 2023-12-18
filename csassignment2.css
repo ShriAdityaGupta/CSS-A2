@@ -1,0 +1,134 @@
+.topheading
+{
+    display: inline-block;
+    background-color: black ;
+    border: 5px red solid;
+    color: white;
+    height: 60px;
+    width: 200px;
+    border-radius: 25px;    
+}
+.dhabatextstyle{
+    padding-top: 10px;
+    padding-left: 15px; 
+    padding-right: 15px; 
+    padding-bottom: 15px; 
+    margin: 10px;
+    font-size: 20px;
+    font-style: italic;
+}
+.topheading1
+{
+    display: inline-block;
+    background-color: black ;
+    border: 5px red solid;
+    color: white;
+    height: 30px;
+    width: 300px;
+    margin-left: -80px;
+    border-radius: 25px;
+}
+.ulstyle{ 
+    padding-top: 15px;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.topheading3
+{
+    position: absolute;
+    display: inline-block;
+    background-color: black ;
+    border: 5px red solid;
+    color: white;
+    height: 60px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+.contactstyle{
+    
+    padding-left: 40px; 
+    height: 150px;
+width: 250px;
+font-size: 20px;
+}
+
+.form
+{
+    display: inline-block;
+    background-color: white;
+    border: 3px red dashed;
+    padding: 20px;
+    width: 300px; 
+    height: auto; 
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+.show{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: capitalize;
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.user{
+    text-transform: capitalize;
+border: 1px black solid;
+text-align: center;
+height: fit-content;
+width: fit-content;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.offerss{
+    position: absolute;
+    display: inline-block;
+    background-color: aqua;
+    border-radius: 50%;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px gray solid;
+    margin-top: 300px;
+    margin-left: 50px;
+    font-size: 14px;
+}
+.menu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black ;
+    border: 5px red solid;
+    color: white;
+    height: 30px;
+    width: 300px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-style: italic;
+}
+.menustyle{
+    display: inline-block;
+    height: 230px;
+    width: 250px;
+    border: 1px black solid;
+    background-color: purple;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 10px;
+}
